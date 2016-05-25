@@ -5,7 +5,7 @@ package tk.woppo.mgame;
  */
 public class Const {
     // 广告应用ID
-    public final static String COOID = "922dc86ee4a244019e3a0155755c4e59";
+    public final static String COOID = "ca1f047c470c41b490ac8693e9271997";
     // 百度 渠道ID
     public final static String BAIDU_CHID = "k-baidu";
     // 腾讯
